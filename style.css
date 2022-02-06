@@ -1,0 +1,21 @@
+body{
+    color: rgb(112, 112, 255);
+    background: yellow;
+}
+
+.heading{
+    width: 75%;
+    font-size: 22px;
+    font-family: 'Dancing Script', cursive;
+    background: rgb(112, 112, 255);
+}
+
+#camera{
+    border: 2px dashed yellow;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,#result_object_name,#result_accuracy_name{
+    color: black;
+}
